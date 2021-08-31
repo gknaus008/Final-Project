@@ -58,7 +58,7 @@
   - Vulnerability Mitigated: A comparitvely large volume of traffic moving ovewr the system would be unusual and warrant investigation.
   - Reliability: Based on volume of network traffic, this Watcher should not trigger many flase positives.
 ```
- ![Watch2](Images/Watch2.PNG)
+ ![threshalert2](images/threshalert2.PNG)
 
 #### Name of Alert 3
 
