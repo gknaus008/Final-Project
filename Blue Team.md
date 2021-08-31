@@ -17,7 +17,7 @@
      - Purpose:  Wordpress Server
      - IP Address: 192.168.1.110
  ```
-  ![nmapA](Images/nmap.png)
+  ![nmap](Images/nmap.png)
   
 ```bash  
     
