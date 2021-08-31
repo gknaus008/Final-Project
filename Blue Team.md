@@ -47,7 +47,7 @@
      - Vulnerability Mitigated: A brute force attack would generate HTTP error responses.  This Watcher alerts if there are an excessive number of HTTP requests in a short period of time
      - Reliability: TODO: Based on volume of network traffic, this watcher generates a low amount of false positives.
 ```
- ![Watch1](Images/Watch1.PNG)
+ ![threshalert](images/threshalert.PNG)
 
 #### Name of Alert 2
 
