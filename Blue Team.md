@@ -69,4 +69,4 @@
      - Vulnerability Mitigated: If the system CPU is working excessively, it could indicate abnormal processes are occuring on the system which should be investigated as potential threats 
      - Reliability: Based on system history, a very low amount of system resources are consumed in the normal course of business, so a spike in utilization would be abnormal.  This would make the rate of false positives low
 ```
- ![Watch3](Images/Watch3.PNG)
+ ![threshalert3](images/threshalert3.PNG)
