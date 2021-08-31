@@ -26,7 +26,7 @@
      - Purpose: Wordpress Server
      - IP Address: 192.168.1.115
 ```
- ![nmap2](Images/nmap2.PNG)
+ ![nmap2](images/nmap2.PNG)
  
 
 ### Description of Targets
