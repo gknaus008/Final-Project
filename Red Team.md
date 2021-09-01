@@ -62,7 +62,7 @@ The following vulnerabilities were identified on each target:
 The Red Team was able to penetrate `Target 1` and retrieve the following confidential data:
 
    ```bash
-    - **Exploit Used**
+    - Exploit Used
       - A WPScan was used to identify the users and vulnerable plugin on the Wordpress server: 
       - The command used:  wpscan --url http://192.168.1.110/wordpress -eu
       - The following information was gathered from the wpscan:
