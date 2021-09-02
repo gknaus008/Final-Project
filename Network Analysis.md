@@ -14,20 +14,20 @@
 
   Both of these answers can be found here:
 ```
- ![LDAP2](Images/LDAPAD2.png)
+ ![fnt](images/fnt.PNG)
  
 ```bash
    3. What is the name of the malware downloaded to the 10.6.12.203 machine?
       -June11.dll
 ```
- ![GETREQ](Images/getrequest.png)
+ ![june11](images/june11.PNG)
  
  ```bash
    
    5. What kind of malware is this classified as?
    -Trojan
 ```
- ![VT](Images/virustotal.png)
+ ![malware1](images/malware1.PNG)
 
  Vulnerable Windows Machine
 
@@ -37,19 +37,19 @@
       - IP address: 172.16.4.205
       - MAC address: 00:59:07:b0:63:a4
 ```
- ![ROTT](Images/rotterdam.PNG)
+ ![ROTT](images/rotterdam.PNG)
     
 ```bash   
    2. What is the username of the Windows user whose computer is infected?
       -mattijs.dervies
 ```
- ![CNAME](Images/RotterdamUsername.JPG)
+ ![CNAME](images/RotterdamUsername.JPG)
  
  ```bash
    3. What are the IP addresses used in the actual infection traffic?
       -185.243.115.84
  ```
-  ![Infect](Images/InfConvo2.png)
+  ![Infect](images/InfConvo2.png)
 
 ---
 
@@ -59,15 +59,15 @@
    1. Find the following information about the machine with IP address `10.0.0.201`:
       - MAC address: 00:16:17:18:66:c8
  ```
-  ![SRC](Images/trrntsrc.png)
+  ![SRC](images/torrent.PNG)
   
 ```bash
       - Windows username: elmer.blanco
 ```
- ![TCNAME](Images/torrentCName.JPG)
+ ![TCNAME](images/elmerblanco.JPG)
  
 ```bash 
    2. Which torrent file did the user download?
       - Betty_Boop_Rhythm_on_the_Reservation.avi.torrent
 ```
- ![TName](Images/InfectedMachineTorrent.JPG)
+ ![TName](images/elmerblanco.JPG)
