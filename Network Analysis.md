@@ -49,7 +49,7 @@
    3. What are the IP addresses used in the actual infection traffic?
       -185.243.115.84
  ```
-  ![Infect](images/InfConvo2.JPG)
+  ![Infect](images/InfConvo2.PNG)
 
 ---
 
