@@ -13,7 +13,7 @@ Nmap scan results for each machine reveal the below services and OS details:
 ```bash
 $ nmap 192.168.1.110 -A
 ```
-  ![nmap-A](Images/nmap-A.png)
+  ![nmap-A](images/nmap-A.PNG)
 
 ```bash
 This scan identifies the services below as potential points of entry:
@@ -33,7 +33,7 @@ The following vulnerabilities were identified on each target:
   - List of Critical Vulnerabilities
 ```  
   
- ![nmapsV](Images/nmapsV.png)
+ ![nmapsV](images/nmapsV.PNG)
  
  ```bash
    Port    Service      Version 
@@ -68,15 +68,15 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
       - The following information was gathered from the wpscan:
    ``` 
    
-   ![WPscan1](Images/wpscan1.png)
-   ![WPscan2](Images/wpscan2.png)
+   ![WPscan1](images/wpscan1.PNG)
+   ![WPscan2](images/wpscan2.PNG)
     
   ```bash
     - A user shell was obtained on michael using 'ssh michael@192.168.1.110'.  A weak password of his own name, michael, was used to log in to the machine.
     - Inside /var/www, flag 2 was revealed via an 'ls' command, and the output was found using a cat
   - `flag2.txt`: 
   ```
-  ![Flag2](Images/flag2a.png)
+  ![Flag2](images/flag2.PNG)
   
   
   ```bash
@@ -86,4 +86,4 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
 - Target 1
   - `flag1.txt`:
   ```
-   ![Flag1](Images/flag1a.png)
+   ![Flag1]images/flag1.PNG)
