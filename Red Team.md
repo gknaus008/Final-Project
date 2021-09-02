@@ -13,7 +13,7 @@ Nmap scan results for each machine reveal the below services and OS details:
 ```bash
 $ nmap 192.168.1.110 -A
 ```
-  ![nmap-A](images/nmap-A.PNG)
+  ![nmap-A](images/nmap-A.png)
 
 ```bash
 This scan identifies the services below as potential points of entry:
@@ -33,7 +33,7 @@ The following vulnerabilities were identified on each target:
   - List of Critical Vulnerabilities
 ```  
   
- ![nmapsV](images/nmapsV.PNG)
+ ![nmapsV](images/nmapsV.png)
  
  ```bash
    Port    Service      Version 
@@ -86,4 +86,4 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
 - Target 1
   - `flag1.txt`:
   ```
-   ![Flag1]images/flag1.PNG)
+   [Flag1]images/flag1.PNG)
