@@ -68,7 +68,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
       - The following information was gathered from the wpscan:
    ``` 
    
-   ![WPscan1](images/wpscan1.PNG)
+   ![WPscan1](images/wpscan1.png)
    ![WPscan2](images/wpscan2.PNG)
     
   ```bash
@@ -86,4 +86,4 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
 - Target 1
   - `flag1.txt`:
   ```
-   [Flag1]images/flag1.PNG)
+   ![Flag1](images/flag1.PNG)
